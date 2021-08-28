@@ -10,15 +10,6 @@
 overflow-x: hidden;
 }
 
-.card {
-  max-width: 480px;
-  margin: auto;
-  text-align: center;
-  font-family:El Messiri;
-
-border: none;
-}
-
 
 @font-face {
   font-family: 'El Messiri';
@@ -32,6 +23,17 @@ border: none;
        url('../fonts/el-messiri-v9-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/el-messiri-v9-latin-regular.svg#ElMessiri') format('svg'); /* Legacy iOS */
 }
+
+.card {
+  max-width: 480px;
+  margin: auto;
+  text-align: center;
+  font-family:El Messiri;
+
+border: none;
+}
+
+
 
 
 .container-fluid{
