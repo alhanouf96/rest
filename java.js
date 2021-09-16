@@ -84,6 +84,13 @@ window.location.href = "deet.html";
  break;
 
 
+case "brsb":
+var val = "brsbb"
+localStorage.setItem("storageName",val);
+window.location.href = "deet.html";
+ break;
+
+
 case "fl":
 var val = "fll"
 localStorage.setItem("storageName",val);
@@ -95,6 +102,13 @@ var val = "ess"
 localStorage.setItem("storageName",val);
 window.location.href = "deet.html";
  break;
+
+case "trfz":
+var val = "trfzz"
+localStorage.setItem("storageName",val);
+window.location.href = "deet.html";
+ break;
+
 
 
 case "am":
