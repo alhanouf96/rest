@@ -21,7 +21,7 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 }
 
 .flaticon-calorie:before {
-    content: "\f101"; margin-right: 2px;
+    content: "\f101"; margin-right: 2px; font-size: 9px;
 }
 .flaticon-right-arrow-angle:before {
     content: "\f102"; padding-left: 2px; 
