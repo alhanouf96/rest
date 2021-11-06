@@ -37,7 +37,7 @@ text-align:right;
 
 p{
 text-align:right;
-font-size: 10px;
+font-size: 0px;
 
 }
 
@@ -250,7 +250,7 @@ padding-left: 0;
 
 .right{
    float: right;
-   font-size: 10px;
+   font-size: 9px;
    padding-left: 4px;
    padding-top:  1.5px;
     color:#933B24;
