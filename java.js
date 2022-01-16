@@ -90,7 +90,12 @@ localStorage.setItem("storageName",val);
 window.location.href = "deet.html";
  break;
 
-
+case "bwg":
+var val = "bwgg"
+localStorage.setItem("storageName",val);
+window.location.href = "deet.html";
+break;
+    
 case "fl":
 var val = "fll"
 localStorage.setItem("storageName",val);
