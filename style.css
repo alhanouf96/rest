@@ -281,6 +281,10 @@ background: #E5E5E5;
 border-bottom-left-radius: 0px;
 border-top-left-radius: 0px;
 }
+.img-fluid2{
+  border-radius: 10px;
+  
+}
 
 
 .no-underline:hover {
