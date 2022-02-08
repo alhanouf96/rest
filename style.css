@@ -449,24 +449,20 @@ color:#933B24;
   .product .popup-card .info h2{
     margin: 20px 5px 5px 5px;
     font-size: 18px;
-  color:#232c69;
+  color:#1C3323;
   }
 
-  .product .popup-card .info h2 span{
-    font-size: 10px;
-    color:#232c69;
-  }
 
   .product .popup-card .info p{
     margin: 5px;
     font-size: 13px;
-    color:#232c69;
+    color:#1C3323;
   }
 
   .product .popup-card .info .price{
     margin: 5px;
     font-size: 18px;
-    color:#232c69;
+    color:#933B24;
   }
 
   .product .popup-card .close-btn{
